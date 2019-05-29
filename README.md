@@ -12,4 +12,5 @@ Please Citeation
 Aslan M., Akbulut Y., Sengor A., CevdetInce M. "Skeleton based efficient fall detection", 
 J. Faculty Eng. Architecture Gazi Univ., 32 (4) (2017), pp. 1025-1034. 
 (DOI: 10.17341/gazimmfd.369347),
+
 https://dergipark.org.tr/download/article-file/388197.
