@@ -5,7 +5,7 @@ Dataset depth video size is about 7.5GB. Therefore, the dataset is not loaded. D
 
 Download link
 
-https://www.dropbox.com/s/wl1o4x2xobj1s8w/FUKinect_Fall.rar?dl=0
+https://bingol-my.sharepoint.com/:f:/g/personal/muzafferaslan_bingol_edu_tr/Eu461hi7HYhMtHcqzur0sU8BzIqlDZgeD6cWwiAU0_2kaA?e=xuvQNa
 
 Please Citeation 
 
